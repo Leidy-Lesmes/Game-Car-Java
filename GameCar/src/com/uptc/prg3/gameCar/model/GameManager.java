@@ -1,4 +1,4 @@
-package model;
+package com.uptc.prg3.gameCar.model;
 
 import java.util.ArrayList;
 
